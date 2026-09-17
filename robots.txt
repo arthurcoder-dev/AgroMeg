@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arthurcoder-dev.github.io/AgroMeg/sitemap.xml
